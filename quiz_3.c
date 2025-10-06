@@ -1,3 +1,4 @@
+// Write a C program using a do-while loop to print the first 'k' multiples of 5.
 #include<stdio.h>
 int main() {
      int i =1; int k;

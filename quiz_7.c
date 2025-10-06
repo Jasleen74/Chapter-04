@@ -1,3 +1,4 @@
+// Write a C program using a while loop to print the first 'N' even numbers, starting from 2.
 #include<stdio.h>
 int main() {
      int  n ;int i= 1 ;int even =2;
